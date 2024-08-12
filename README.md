@@ -1,0 +1,1 @@
+# Student_detail_in_c
